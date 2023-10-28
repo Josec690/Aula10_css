@@ -1,0 +1,15 @@
+*{
+    background-color: yellow;
+}
+
+.souDivClasse{
+height: 100px;    
+width: 100%;
+background-color: rgb(235, 235, 233);
+}
+
+#souDiv1{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+}
